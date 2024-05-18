@@ -26,7 +26,6 @@ Welcome to the Weather Website project! This application provides up-to-date wea
 ## Technologies Used
 
 - Front-end: React, HTML, CSS, JavaScript
-- Back-end: Node.js, Express
 - API: OpenWeatherMap API
 - Build Tool: Webpack
 - Version Control: Git
