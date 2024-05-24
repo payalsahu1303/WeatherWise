@@ -11,7 +11,9 @@ Welcome to the Weather Website project! This application provides up-to-date wea
 
 ## Demo
 
-![Screenshot 2024-05-18 123554](https://github.com/payalsahu1303/WeatherWise/assets/141853271/0ba229b3-04c9-43d6-b3f2-cd616b44342d)
+![Untitled design (1)_page-0001](https://github.com/payalsahu1303/WeatherWise/assets/141853271/ff911f4e-feea-49d9-bfc7-82498dbf29c3)
+
+
 
 
 ## Features
