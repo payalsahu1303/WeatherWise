@@ -4,6 +4,8 @@ WeatherWise is a modern and intuitive weather website that provides accurate cur
 
 ![output](https://github.com/payalsahu1303/WeatherWise/assets/141853271/2391865a-43c5-441a-a1be-676550882be2)
 
+[WeatherWise](https://weatherwise-web.netlify.app)
+
 ## Features
 
 - **Current Weather**: Displays the current weather conditions for any location.
