@@ -1,42 +1,29 @@
 # WeatherWise
 
-Welcome to the Weather Website project! This application provides up-to-date weather information for locations around the globe. Users can search for current weather conditions, forecasts, and other meteorological data.
+WeatherWise is a modern and intuitive weather website that provides accurate current weather conditions, tracks your current location, and offers a 5-day weather forecast along with an hourly forecast for the current day. Additionally, it highlights key weather metrics such as air quality index, humidity, pressure, sunrise and sunset times, visibility, and feels-like temperature.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [API Reference](#api-reference)
-
-## Demo
-
-![Untitled design (1)_page-0001](https://github.com/payalsahu1303/WeatherWise/assets/141853271/ff911f4e-feea-49d9-bfc7-82498dbf29c3)
-
-
-- **Link:** https://weather-wise-web.netlify.app
-
+![output](https://github.com/payalsahu1303/WeatherWise/assets/141853271/2391865a-43c5-441a-a1be-676550882be2)
 
 ## Features
 
-- **Real-time Weather Data:** Get current weather conditions for any city worldwide.
-- **Forecast:** 7-day weather forecast.
-- **Search Functionality:** Search weather by city name.
-- **Responsive Design:** Works on all device sizes.
-- **Geolocation:** Automatically detect user's location and display weather.
-- **Weather Icons:** Visual representation of weather conditions.
+- **Current Weather**: Displays the current weather conditions for any location.
+- **Location Tracking**: Automatically tracks and displays the weather for your current location.
+- **5-Day Forecast**: Provides a 5-day weather forecast.
+- **Hourly Forecast**: Shows today's hourly forecast with temperature and wind direction.
+- **Weather Highlights**: Includes detailed weather information such as air quality index, humidity, pressure, sunrise and sunset times, visibility, and feels-like temperature.
 
 ## Technologies Used
 
-- Front-end: React, HTML, CSS, JavaScript
-- API: OpenWeatherMap API
-- Build Tool: Webpack
-- Version Control: Git
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
 
-## API Reference
+## Getting Started
 
-This project uses the OpenWeatherMap API to fetch weather data. You will need to sign up for an API key. Add this key to your `.env` file as `REACT_APP_WEATHER_API_KEY`.
+Follow these instructions to set up the project locally.
 
+### Prerequisites
 
-
-
+- A web browser
+- An OpenWeatherMap API key. You can get one by signing up at [OpenWeatherMap](https://home.openweathermap.org/users/sign_up).
