@@ -2,9 +2,9 @@
 
 WeatherWise is a modern and intuitive weather website that provides accurate current weather conditions, tracks your current location, and offers a 5-day weather forecast along with an hourly forecast for the current day. Additionally, it highlights key weather metrics such as air quality index, humidity, pressure, sunrise and sunset times, visibility, and feels-like temperature.
 
-![output](https://github.com/payalsahu1303/WeatherWise/assets/141853271/2391865a-43c5-441a-a1be-676550882be2)
 
-[WeatherWise](https://weatherwise-web.netlify.app)
+
+[WeatherWise](https://weatherwise-web.netlify.app/)
 
 ## Features
 
